@@ -1,1 +1,0 @@
-Hola este es mi archivo de prueba con extensión txt para el curso de Construcción de software
